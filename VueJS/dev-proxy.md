@@ -11,10 +11,16 @@ module.exports = {
         ws: true,
         changeOrigin: true,
       },
+      '^/sanctum': {
+        target: 'http://localhost:80',
+        ws: true,
+        changeOrigin: true,
+      },
     },
   },
 }
 ```
 The `changeOrigin` parameter is needed for CORS backend policy.
 
-[reference](https://cli.vuejs.org/config/#devserver-proxy)
+## References
+- [Vue-CLI config documentation](https://cli.vuejs.org/config/#devserver-proxy)
