@@ -1,6 +1,9 @@
 # Today I learned
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
+## Laravel
+* [Return Collection as Resource](Laravel/return-collection-as-resource.md)
+
 ## VueJS
 * [Add a global CSS file to a Vue-CLI project](VueJS/global-css.md)
 * [Fetch API on port 80 while serving on port 8080](VueJS/dev-proxy.md)
