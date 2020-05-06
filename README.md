@@ -3,6 +3,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Laravel
 * [Return Collection as Resource](Laravel/return-collection-as-resource.md)
+* [Creating a new model using the NestedSet NodeTrait fails (not found)](Laravel/nestedset-create-node-issue.md)
 
 ## VueJS
 * [Add a global CSS file to a Vue-CLI project](VueJS/global-css.md)
