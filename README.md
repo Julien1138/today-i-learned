@@ -8,6 +8,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [Return Collection as Resource](Laravel/return-collection-as-resource.md)
 * [Creating a new model using the NestedSet NodeTrait fails (not found)](Laravel/nestedset-create-node-issue.md)
 
+## PHP
+* [Trait method conflict and how to resolve it](PHP/trait-conflict-resolution.md)
+
 ## VueJS
 * [Add a global CSS file to a Vue-CLI project](VueJS/global-css.md)
 * [Fetch API on port 80 while serving on port 8080](VueJS/dev-proxy.md)
