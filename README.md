@@ -14,6 +14,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## VueJS
 * [Add a global CSS file to a Vue-CLI project](VueJS/global-css.md)
 * [Fetch API on port 80 while serving on port 8080](VueJS/dev-proxy.md)
+* [Prevent VueJS to reuse a component when changing page](VueJS/prevent-reuse-of-components.md)
 * [Stub an API call with an acceptable delay](VueJS/stub-api-call.md)
 
 # Inspirations
