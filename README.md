@@ -4,6 +4,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Algorithmic
 * [Compute nested set node's depth](Algorithmic/compute-nested-set-node-depth.md)
 
+## JavaScript
+* [Array intersection, difference, and union in ES6](JavaScript/array-intersection-difference-and-union-in-es6.md)
+
 ## Laravel
 * [Return Collection as Resource](Laravel/return-collection-as-resource.md)
 * [Creating a new model using the NestedSet NodeTrait fails (not found)](Laravel/nestedset-create-node-issue.md)
