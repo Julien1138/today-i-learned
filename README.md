@@ -17,6 +17,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## VueJS
 * [Add a global CSS file to a Vue-CLI project](VueJS/global-css.md)
 * [Dynamically remove watcher](VueJS/dynamically-remove-watcher.md)
+* [Easy lifecycle debugger](VueJS/lifecycle-debug.md)
 * [Explore JS with vue devtools](VueJS/explore-js-with-vue-devtools.md)
 * [Fetch API on port 80 while serving on port 8080](VueJS/dev-proxy.md)
 * [How to not cache VueX getters](VueJS/uncached-vuex-getters.md)
