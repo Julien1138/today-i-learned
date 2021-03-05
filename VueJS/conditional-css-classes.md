@@ -25,3 +25,7 @@ Example:
           }"
 ></div>
 ```
+
+## References
+
+- [VueJS documentation](https://vuejs.org/v2/guide/class-and-style.html)
