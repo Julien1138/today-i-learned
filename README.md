@@ -22,6 +22,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## VueJS
 
 - [Add a global CSS file to a Vue-CLI project](VueJS/global-css.md)
+- [Add v-model capability to a custom component](VueJS/v-model-custom-component.md)
 - [Conditional CSS classes](VueJS/conditional-css-classes.md)
 - [Dynamically remove watcher](VueJS/dynamically-remove-watcher.md)
 - [Easy lifecycle debugger](VueJS/lifecycle-debug.md)
